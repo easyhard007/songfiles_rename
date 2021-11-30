@@ -20,6 +20,7 @@ This is done by split the original file names, and try to detect song names and 
 处理后的文件名如下所示：
 ![image](https://user-images.githubusercontent.com/6952405/143989469-9c426c52-a7e6-47a0-8d1c-84665b091d33.png)
 
+项目文件夹中analysis.py是处理文件名的代码，b.txt是使用windows命令行生成的原文件夹中的所有原文件名，这些文件名将被导入进行处理，然后生成pdf批量重命名.xls，然后程序根据这个excel文件对文件夹中的文件进行批量重命名。
 
 
 

@@ -17,5 +17,9 @@ This is done by split the original file names, and try to detect song names and 
 4. 使用 歌曲名 - 歌手名.pdf 作为新的文件名
 当然以上步骤存在一些自动化处理无法覆盖的文件，大概有10个左右，我手工处理了这些文件。
 
+处理后的文件名如下所示：
+![image](https://user-images.githubusercontent.com/6952405/143989469-9c426c52-a7e6-47a0-8d1c-84665b091d33.png)
+
+
 
 
